@@ -6,7 +6,7 @@ Ola o/
 Meu nome é Sabrina Nogueira Barbosa, tenho 17 anos e sou de Marília SP. Estou cursando no momento Desenvolvimento de Software Multiplataforma na FATEC Antonio Devisate na minha cidade. Por ser apaixonada, super coriosa e com gosto em aprender, conclui um curso de robótica na escola MARTE e um curso de montagem de microcomputadores no SENAI da cidade.
 
 <p align="left">
-    <a href="mailto:sabrinanb1967@gmail.com">
+    <a href="mailto:sabrinaNB1967@gmail.com">
         <img 
             alt="Email" 
             title="Meu email" 
